@@ -1,2 +1,0 @@
-# c-learning
-Learning C
